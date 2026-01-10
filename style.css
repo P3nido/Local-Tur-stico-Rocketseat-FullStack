@@ -1,0 +1,119 @@
+body {
+    background: #F5F4F0;
+}
+
+#title-page p, .red-font {
+    color: #E1624F;
+    font-family:"Open Sans";
+    font-weight: bold;
+    font-size: 16px;
+    margin-bottom: 8px;
+    text-transform: uppercase;
+}
+
+#title-page h1 {
+    color:  #1b1b1b;
+    font-family: "Open Sans";
+    margin: 0 0 40px 0;
+    font-size: 36px;
+}
+
+.pagehome{
+    width: 1120px;
+    gap: 40px;
+    margin: auto;
+    padding: 87px 115px 66px 45px
+}
+
+#description-more-image p {
+    color: #333;
+    font-style: italic;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: "Open Sans";
+    text-align: center;
+}
+
+h2 {
+    font-family: "Open Sans";
+    font-size: 32px;
+    font-weight: bold;
+    margin: 0;
+}
+
+p {
+    font-family: "Open Sans";
+    font-size: 16px;
+    font-weight: 400;
+    color: #333;
+}
+
+.text-content{
+    margin: 64px 0;
+}
+
+.img-description{
+    padding-bottom: 40px;
+    border-bottom: 1px solid #d9d9d9;
+}
+
+h3 {
+    font-size: 28px;
+    font-family: "Open Sans";
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.bom-para {
+    color: #333;
+    font-size: 16px;
+    font-family: "Open Sans";
+    font-weight: bold;
+    margin: 0;
+}
+
+ul {
+    margin: 5px 0 48px 0;
+}
+
+.historia, .l1, .l2, .l3{
+    color: #0C51A7;
+    font-size: 16px;
+    font-family: "Open Sans";
+    font-weight: 400;
+    margin: 0;
+}
+
+.l1{
+    color: #591B98 !important;
+}
+
+.l2{
+    color: #E5245E !important;
+}
+
+.l3{
+    color: #E95E10 !important;
+}
+
+#content-list {
+    border-bottom: 1px solid #d9d9d9;
+}
+
+#description p {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    color: #333333 !important;
+    padding-bottom: 48px;
+}
+
+path {
+    fill: #333333;
+}
+
+ul li::marker {
+  color: #333333;
+}
